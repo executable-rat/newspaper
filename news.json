@@ -3,24 +3,24 @@
         "image": "https://example.com/image1.jpg",
         "text": "Первая новость: важные события в мире.",
         "date": "2023-04-01",
-        "expiration_date": "2025-04-05"
+        "expiration_date": "2026-04-30"
     },
     {
         "image": "https://example.com/image2.jpg",
         "text": "Вторая новость: новые технологии в 2023 году.",
         "date": "2023-04-02",
-        "expiration_date": "2025-04-10"
+        "expiration_date": "2026-04-27"
     },
     {
         "image": "https://example.com/image3.jpg",
         "text": "Третья новость: спорт и здоровье.",
         "date": "2023-04-03",
-        "expiration_date": "2025-04-08"
+        "expiration_date": "2025-04-29"
     },
     {
         "image": "https://example.com/image4.jpg",
         "text": "Четвертая новость: культурные события месяца.",
         "date": "2023-04-04",
-        "expiration_date": "2025-04-12"
+        "expiration_date": "2025-04-28"
     }
 ]
