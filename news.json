@@ -1,24 +1,24 @@
 [
     {
-        "image": "https://example.com/image1.jpg",
+        "image": "https://i1.sndcdn.com/artworks-JuZMLmuYuCQoXYRg-BmkKmg-t500x500.jpg",
         "text": "Первая новость: важные события в мире.",
         "date": "2023-04-01",
         "expiration_date": "29-05-2025"
     },
     {
-        "image": "https://example.com/image2.jpg",
+        "image": "https://i.pinimg.com/736x/92/0b/45/920b4595274cb561a630a01ff22af757.jpg",
         "text": "Вторая новость: новые технологии в 2023 году.",
         "date": "2023-04-02",
         "expiration_date": "29-05-2025"
     },
     {
-        "image": "https://example.com/image3.jpg",
+        "image": "https://i.pinimg.com/736x/92/0b/45/920b4595274cb561a630a01ff22af757.jpg",
         "text": "Третья новость: спорт и здоровье.",
         "date": "2023-04-03",
         "expiration_date": "29-05-2025"
     },
     {
-        "image": "https://example.com/image4.jpg",
+        "image": "https://i1.sndcdn.com/artworks-JuZMLmuYuCQoXYRg-BmkKmg-t500x500.jpg",
         "text": "Четвертая новость: культурные события месяца.",
         "date": "2023-04-04",
         "expiration_date": "29-05-2025"
